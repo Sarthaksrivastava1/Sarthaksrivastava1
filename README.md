@@ -8,8 +8,8 @@ a passionate learner with a focus on cyber security.
 
 ## 📫 Personal Details
 
-- **Email**: [Your Email](mailto:youremail@example.com)
-#### My LinkedIn Profile: linkedin.com/in/sarthak-srivastava-44b99329a**
+- **Email**: [sarthaksri4349@gmail.com](sarthaksri4349@gmail.com)
+- **My LinkedIn Profile**: [Sarthak Srivastava](linkedin.com/in/sarthak-srivastava-44b99329a)
 - **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
 
 ---
