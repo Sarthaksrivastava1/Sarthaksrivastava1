@@ -1,8 +1,8 @@
 
 
-# Hi! I'm Sarthak
+# Hi! I'm Sarthak Srivastava
 
-a passionate learner with a focus on cyber security.
+A IT student with a Strong Foundation in Cybersecurity and a Passion for Learning.
 
 ---
 
@@ -15,16 +15,18 @@ a passionate learner with a focus on cyber security.
 
 ## 🏫 Education
 
-### BCA in cyber security and forensic
-Babu Banarsi Das University  
+- ### Bachelor of Computer Application (Cyber Security and Forensic)
+Babu Banarsi Das University, Lucknow 
+
 2023 - 2026
 
-## Courses
+Studing fundamental concepts in concept in cybersecurity with a focus on network security, ethical hacking, and digital forensics, eager to gain practical in hands-on experieance.
 
-- **[Course Title]** - [Platform]
-  - Description or key learnings
+---
 
-### Foundations of cyber security ### 
+## 📜 Courses
+
+- ### Foundations of cyber security ### 
 Certification from google
 
 WHAT I HAVE LEARN
@@ -34,7 +36,7 @@ WHAT I HAVE LEARN
 - Identify common tools used by cybersecurity analysts
 #### verification link: https://coursera.org/verify/ZW7DX2B4VB3C ####
 
-### Manage Security risks ###
+- ### Manage Security risks ###
 Certification from google
 
 WHAT I HAVE LEARN
@@ -44,7 +46,7 @@ WHAT I HAVE LEARN
 - Use a playbook to respond to threats, risks, and vulnerabilities
 #### verification link: https://coursera.org/verify/CAMTZAPVKZKU ####
 
-### Networks and Network Security ###
+- ### Networks and Network Security ###
 Certification from google
 
 WHAT I HAVE LEARN
@@ -54,7 +56,7 @@ WHAT I HAVE LEARN
 - Describe system hardening techniques
 #### verification link: https://coursera.org/verify/HCWUCHD7BRSL ####
 
-### Tools of the Trade: Linux and SQL ###
+- ### Tools of the Trade: Linux and SQL ###
 Certification from google
 
 WHAT I HAVE LEARN
@@ -64,7 +66,7 @@ WHAT I HAVE LEARN
 - Use SQL to retrieve information from a database
 #### verification link: https://coursera.org/verify/NC923GQ5ZVZ5 ####
 
-### Data Science for Business ###
+- ### Data Science for Business ###
 Issued by IBM
 
 TOPICS LEARNED
@@ -76,35 +78,4 @@ TOPICS LEARNED
 #### verification link: https://www.credly.com/go/GiavzkMl ####
 ---
 
-## 💻 Projects
-
-### Project 1: [Project Name](https://github.com/yourusername/project1)
-- **Description**: Briefly describe what this project is about.
-- **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]
-- **Highlights**: Key features or accomplishments.
-- **[Demo Link or Screenshot]**: Link to a live demo or screenshot.
-
-### Project 2: [Project Name](https://github.com/yourusername/project2)
-- **Description**: Briefly describe what this project is about.
-- **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]
-- **Highlights**: Key features or accomplishments.
-- **[Demo Link or Screenshot]**: Link to a live demo or screenshot.
-
----
-
-## 📜 Certificates
-
-- **[Certificate Name]** from [Institution]
-  - [Link to Certificate](#)
-  - Description of what the certificate covers or the skills acquired
-
-- **[Certificate Name]** from [Institution]
-  - [Link to Certificate](#)
-  - Description of what the certificate covers or the skills acquired
-
----
-
-
-
-*Feel free to reach out if you have any questions or want to collaborate on projects!*
 
