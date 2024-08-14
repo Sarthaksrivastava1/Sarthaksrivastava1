@@ -10,7 +10,6 @@ a passionate learner with a focus on cyber security.
 
 - **Email**: sarthaksri4349@gmail.com
 - **My LinkedIn Profile**: https://linkedin.com/in/sarthak-srivastava-44b99329a
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
 
 ---
 
