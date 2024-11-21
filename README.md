@@ -22,6 +22,11 @@ Babu Banarsi Das University, Lucknow
 
 Studing fundamental concepts in concept in cybersecurity with a focus on network security, ethical hacking, and digital forensics, eager to gain practical in hands-on experieance.
 
+- ### Class 10 and 12(PCM)
+Glenhill School(10+2), Varanasi
+
+2021-2023
+
 ---
 
 ## 📜 Courses
@@ -78,4 +83,13 @@ TOPICS LEARNED
 #### verification link: https://www.credly.com/go/GiavzkMl ####
 ---
 
+## ♟️ Internship
+
+- ### Resarch Assistant
+In UEM University , Kolkata
+
+- Worked under Prof. (Dr). Mohuya Chakraborty and Prof. Sudip Kumar Palit with Subhojit Chakraborty
+- We made an IOP(Internet of Production)-DApp : A Decentralise Application for Secure Authentication and Comuniction in Internet of Production(IOP)
+- In this Resaech we made an Dapp with Internet of Production (IoP) Protocol presents a secure authentiction and communication framework for stakeholders in supply chain networks.
+- I worked in backend and made the solidity code for the Dapp
 
