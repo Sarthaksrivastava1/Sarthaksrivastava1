@@ -92,3 +92,4 @@ In UEM University , Kolkata
 - We made an IOP(Internet of Production)-DApp : A Decentralise Application for Secure Authentication and Comuniction in Internet of Production(IOP)
 - In this Resaech we made an Dapp with Internet of Production (IoP) Protocol presents a secure authentiction and communication framework for stakeholders in supply chain networks.
 - I worked in Backend and made the Smart Contract for the Dapp with Solidity.
+---
