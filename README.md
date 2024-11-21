@@ -86,7 +86,7 @@ TOPICS LEARNED
 ## ♟️ Internship
 
 - ### Resarch Assistant
-In UEM University , Kolkata
+In University of Engineering & Management (UEM) University , Kolkata
 
 - Worked under Prof. (Dr). Mohuya Chakraborty and Prof. Sudip Kumar Palit with Subhojit Chakraborty
 - We made an IOP(Internet of Production)-DApp : A Decentralise Application for Secure Authentication and Comuniction in Internet of Production(IOP)
