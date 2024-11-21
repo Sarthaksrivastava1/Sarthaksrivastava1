@@ -91,5 +91,4 @@ In UEM University , Kolkata
 - Worked under Prof. (Dr). Mohuya Chakraborty and Prof. Sudip Kumar Palit with Subhojit Chakraborty
 - We made an IOP(Internet of Production)-DApp : A Decentralise Application for Secure Authentication and Comuniction in Internet of Production(IOP)
 - In this Resaech we made an Dapp with Internet of Production (IoP) Protocol presents a secure authentiction and communication framework for stakeholders in supply chain networks.
-- I worked in backend and made the solidity code for the Dapp
-
+- I worked in Backend and made the Smart Contract for the Dapp with Solidity.
